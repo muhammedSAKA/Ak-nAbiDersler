@@ -27,6 +27,7 @@
 
 //DEĞER TİPLERİ
 byte yas = 16;
+byte numara = 32;
 byte minByte = byte.MinValue;
 byte maxByte = byte.MaxValue;
 Console.WriteLine("BYTE DEĞERLERİ");
