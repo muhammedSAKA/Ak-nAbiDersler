@@ -198,8 +198,8 @@ Console.WriteLine($"BİLGİLERİNİZ\t:\n*******************\nİsim\t: {firstNam
 Console.WriteLine($"BİLGİLERİNİZ\t:\n*******************\nİsim\t: {firstName}\nSoyisim\t: {lastName}\nYaş\t: {age}");
 
 
-Console.WriteLine($"BİLGİLERİNİZ : \t \n ******************* \n İsim \t: {firstName} \n Soyisim \t: {lastName} \n Yaş \t: {age}");
+Console.WriteLine($"BİLGİLERİNİZ :\t\n ******************* \nİsim\t: {firstName}\nSoyisim\t: {lastName}\nYaş\t: {age}");
 
  // "\t" BU İFADE Escape sequence ( kaçış dizisi )  klavyedeki Tab tuşuyla aynı görevi görür.
- // Metnin içinde bir miktar boşluk bırakarak verileri hizalamana yardımcı olu
+ // Metnin içinde bir miktar boşluk bırakarak verileri hizalamana yardımcı olur.
  
